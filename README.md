@@ -114,6 +114,6 @@ The `examples` folder contains:
 
 ## Developer
 - Eduardo Arana
-- 
+  
 ## Availability
 - Certified by MCPHub https://mcphub.com/mcp-servers/arananet/mcp-telegram-poc
